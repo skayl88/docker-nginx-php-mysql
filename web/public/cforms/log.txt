@@ -1,0 +1,214 @@
+2021-09-16 11:12:46 Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Квест
+            [STATUS_ID] => NEW
+            [OPENED] => Y
+            [SOURCE_ID] => 79643429993
+            [NAME] => еуые
+            [ASSIGNED_BY_ID] => 96
+            [COMMENTS] => Array
+                (
+                    [0] => Детский сад
+                    [1] => 
+                    [2] => Бумажные_носители
+                    [3] => 
+                    [4] => Google
+                    [5] => 
+                )
+
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => +74433434
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [EMAIL] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => skayl8827@gmail.com
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [UTM_SOURCE] => test_source
+            [UTM_MEDIUM] => test_medium
+            [UTM_CAMPAIGN] => test_CAMPAIGN
+            [UTM_CONTENT] => test_CONTENT
+            [UTM_TERM] => test_TERM
+            [UF_CRM_1631788584] => /modul-planirovanie-zadach/
+            [UF_CRM_1631787877] => Детский сад
+            [UF_CRM_1631787902] => Бумажные_носители
+            [UF_CRM_1631787919] => Google
+        )
+
+    [params] => Array
+        (
+            [REGISTER_SONET_EVENT] => Y
+        )
+
+)
+
+2021-09-16 11:18:24 Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Квест
+            [STATUS_ID] => NEW
+            [OPENED] => Y
+            [SOURCE_ID] => 79643429993
+            [NAME] => еуывыв
+            [ASSIGNED_BY_ID] => 96
+            [COMMENTS] => Array
+                (
+                    [0] => Детский сад
+                    [1] => 
+                    [2] => Программа_Exel
+                    [3] => 
+                    [4] => Через знакомых
+                    [5] => 
+                )
+
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => +72323
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [EMAIL] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => skayl8827@gmail.com
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [UTM_SOURCE] => test_source
+            [UTM_MEDIUM] => test_medium
+            [UTM_CAMPAIGN] => test_CAMPAIGN
+            [UTM_CONTENT] => test_CONTENT
+            [UTM_TERM] => test_TERM
+            [UF_CRM_1631788584] => /modul-planirovanie-zadach/
+            [UF_CRM_1631787877] => Детский сад
+            [UF_CRM_1631787902] => Программа_Exel
+            [UF_CRM_1631787919] => Через знакомых
+        )
+
+    [params] => Array
+        (
+            [REGISTER_SONET_EVENT] => Y
+        )
+
+)
+
+2021-09-23 13:15:55 Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Обратный звонок попап
+            [STATUS_ID] => NEW
+            [OPENED] => Y
+            [SOURCE_ID] => 79643429993
+            [NAME] => 
+            [ASSIGNED_BY_ID] => 96
+            [COMMENTS] => 
+            [UTM_SOURCE] => 
+            [UTM_MEDIUM] => 
+            [UTM_CAMPAIGN] => 
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+            [UF_CRM_1631788584] => /
+            [UF_CRM_1631787877] => 
+            [UF_CRM_1631787902] => 
+            [UF_CRM_1631787919] => 
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => +700000000000000000
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [EMAIL] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+        )
+
+    [params] => Array
+        (
+            [REGISTER_SONET_EVENT] => Y
+        )
+
+)
+
+2021-10-04 12:37:23 Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Обратный звонок попап
+            [STATUS_ID] => NEW
+            [OPENED] => Y
+            [SOURCE_ID] => 79643429993
+            [NAME] => 
+            [ASSIGNED_BY_ID] => 96
+            [COMMENTS] => 
+            [UTM_SOURCE] => 
+            [UTM_MEDIUM] => 
+            [UTM_CAMPAIGN] => 
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+            [UF_CRM_1631788584] => /
+            [UF_CRM_1631787877] => 
+            [UF_CRM_1631787902] => 
+            [UF_CRM_1631787919] => 
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => +70000000000000000000
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [EMAIL] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+        )
+
+    [params] => Array
+        (
+            [REGISTER_SONET_EVENT] => Y
+        )
+
+)
+

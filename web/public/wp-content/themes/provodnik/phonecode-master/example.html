@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="phonecode.css">
+
+    </style>
+    <script src="jquery-1.11.0.min.js"></script>
+    <script src="jquery-ui-1.10.4.custom.min.js"></script>
+    <script src="counties.js"></script>
+    <script src="phonecode.js"></script>
+    <script>
+        $(function () {
+            $('#phone').phonecode({
+                preferCo: 'ru'
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="form">
+            <div class="field">
+           
+                <input type="text" id="phone" name="phone" autofocus="true" placeholder="9990000000">
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
