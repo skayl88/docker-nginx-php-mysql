@@ -3777,6 +3777,11 @@ right: 44%;
         margin-left: 5px;
     
     }
+    .social_box .social_info p{
+       font-size: 12px;
+        margin-left: 10px;
+  
+    }
 }
 
 @media screen and (max-width: 760px) {

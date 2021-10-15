@@ -942,3 +942,51 @@
     [3] => utm_term
 )
 
+2021-10-15 13:27:06 Array
+(
+    [0] => utm_source
+    [1] => utm_medium
+    [2] => utm_campaign
+    [3] => utm_term
+)
+
+2021-10-15 13:27:06 Array
+(
+    [0] => utm_source
+    [1] => utm_medium
+    [2] => utm_campaign
+    [3] => utm_term
+)
+
+2021-10-15 13:27:55 Array
+(
+    [0] => utm_source
+    [1] => utm_medium
+    [2] => utm_campaign
+    [3] => utm_term
+)
+
+2021-10-15 13:29:06 Array
+(
+    [0] => utm_source
+    [1] => utm_medium
+    [2] => utm_campaign
+    [3] => utm_term
+)
+
+2021-10-15 13:29:26 Array
+(
+    [0] => utm_source
+    [1] => utm_medium
+    [2] => utm_campaign
+    [3] => utm_term
+)
+
+2021-10-15 13:29:38 Array
+(
+    [0] => utm_source
+    [1] => utm_medium
+    [2] => utm_campaign
+    [3] => utm_term
+)
+
